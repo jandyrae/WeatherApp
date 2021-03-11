@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="cityView">Enter a city:</string>
+    <string name="enterCity">city</string>
+    <string name="buttonCurrent">Current Temperature</string>
+    <string name="buttonForecast">Forecast</string>
+    <string name="listView">List Weather View</string>
+</resources>
